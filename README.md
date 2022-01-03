@@ -5,7 +5,7 @@ Hey Bro! My name is Audisio.
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=audisiofilho&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=audisiofilho&&layout=compact&hide=shell&theme=vision-friendly-dark"/>
 
-  <img align="center" width="148" height="180" src="https://media1.giphy.com/media/4OBq5v6J4pgJuZ2Cnj/giphy.webp?cid=ecf05e473swmo2uo8tycgd9rteonx2dlht65veyag7l4ijvw&rid=giphy.webp&ct=g">
+ 
 </div>
  <br>
 <div  align="center"> 
